@@ -1,8 +1,8 @@
-
 public class Calculator {
 
+           JPanel panel;
+
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
